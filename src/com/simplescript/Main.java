@@ -15,6 +15,5 @@ public class Main {
 
 	    Parser.parseSource(input); // The filePath leads to the source file that the Parser class parses
 
-        // This is a GitHub test
     }
 }
