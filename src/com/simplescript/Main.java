@@ -14,6 +14,6 @@ public class Main {
 		String input = filePath.nextLine();
 
 		Parser.parseSource(input); // The filePath leads to the source file that the Parser class parses
-		
+
     }
 }
